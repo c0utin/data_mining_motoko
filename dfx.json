@@ -1,6 +1,10 @@
 {
   "canisters": {
-    "parsekoto_backend": {
+    "parsekoto_network": {
+      "main": "src/parsekoto_backend/network.mo",
+      "type": "motoko"
+    },
+    "parsekoto_core": {
       "main": "src/parsekoto_backend/main.mo",
       "type": "motoko"
     }
