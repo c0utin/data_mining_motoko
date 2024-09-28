@@ -1,0 +1,2132 @@
+[
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 28,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 16,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 22,
+    "failures": "yes"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 1,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 26,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 7,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 5,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 15,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 56,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 20,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 18,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 20,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 13,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 40,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 15,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 1,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 22,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 18,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 23,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 7,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 18,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 3,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 3,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 3,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 3,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 18,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 16,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 16,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 9,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 17,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 20,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 5,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 9,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 15,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 25,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 4,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 30,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 11,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 7,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 24,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 16,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 7,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 7,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 18,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 3,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 13,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 54,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "yes"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 1,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 3,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 3,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "no",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 5,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "yes"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 16,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 16,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 5,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 11,
+    "failures": "yes"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 5,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 21,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 14,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "yes"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 10,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 7,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 9,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 1,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 4,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 75,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 4,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 0,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 6,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 20,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 8,
+    "failures": "no"
+  },
+  {
+    "studytime": 3,
+    "higher": "yes",
+    "absences": 2,
+    "failures": "no"
+  },
+  {
+    "studytime": 2,
+    "higher": "no",
+    "absences": 0,
+    "failures": "yes"
+  },
+  {
+    "studytime": 2,
+    "higher": "yes",
+    "absences": 12,
+    "failures": "no"
+  }
+]
