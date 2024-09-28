@@ -1,0 +1,10 @@
+[package]
+name = "parsekoto"
+version = "1.0.0"
+description = "csv parser for motoko"
+repository = "https://github.com/c0utin/parsekoto"
+keywords = [ "csv", "parser", "serde", "ai", "data-science", "data" ]
+license = "MIT"
+
+[dependencies]
+base = "0.13.0"
