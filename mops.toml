@@ -7,4 +7,5 @@ keywords = [ "csv", "parser", "serde", "ai", "data-science", "data" ]
 license = "MIT"
 
 [dependencies]
-base = "0.13.0"
+base = "0.12.0"
+itertools = "0.2.2"

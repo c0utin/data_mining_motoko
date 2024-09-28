@@ -1,7 +1,7 @@
 module Types {
 
-  public type Timestamp = Nat64;
-  
+    public type Timestamp = Nat64;
+
     public type HttpRequestArgs = {
         url : Text;
         max_response_bytes : ?Nat64;
@@ -53,4 +53,5 @@ module Types {
         http_request : HttpRequestArgs -> async HttpResponsePayload;
     };
 
-}
+};
+
