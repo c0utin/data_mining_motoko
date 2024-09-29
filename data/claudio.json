@@ -1,7 +1,9 @@
-{
-  "studytime": 2,
-  "higher": "yes",
-  "absences": 4,
-  "failures": "no"
-}
+[
+	{
+	  "studytime": 2,
+	  "higher": "yes",
+	  "absences": 4,
+	  "failures": "no"
+	},
+]
 
