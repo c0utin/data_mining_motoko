@@ -70,13 +70,11 @@ actor {
 		return studytimeDiff + absencesDiff;
 	};
 
-	// Função para calcular todas as distâncias
 	public func calculateAllDistances(newRecord: Types.StudentRecord): async [(Types.StudentRecord, Float)] {
 		var distances: [(Types.StudentRecord, Float)] = [];
 
-		// Calcula a distância entre o novo registro e cada registro do array
-		for (mockRecord in mock.vals()) { // Corrigido para usar mock.vals()
-			let distance = await calculateDistance(newRecord, mockRecord); // Use await para chamar a função assíncrona
+		for (mockRecord in mock.vals()) { 
+			let distance = await calculateDistance(newRecord, mockRecord);
 			distances := Array.append(distances, [(mockRecord, distance)]);
 		};
 
