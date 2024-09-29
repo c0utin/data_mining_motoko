@@ -1,39 +1,87 @@
 import Principal "mo:base/Principal";
 import Text "mo:base/Text";
+import Int "mo:base/Int";
+import Array "mo:base/Array";
+import Blob "mo:base/Blob";
+import Debug "mo:base/Debug";
+import Float "mo:base/Float";
+
+import Types "types";
 
 actor {
 
     type networks_interface = actor {
         get_raw_data: (Text) -> async Text;
-        get_stable_raw_text: () -> async Text;
+        get_stable_raw_json: () -> async Text;
     };
 
-    var networks : ?networks_interface = null; 
+    var networks: ?networks_interface = null; 
 
-    public func setup_networks(c : Principal) {
+    public func setup_networks(c: Principal) {
         networks := ?(actor (Principal.toText(c)) : networks_interface);
     };
 
     public func fetch_raw_data(url: Text) : async Text {
         switch (networks) {
             case (null) { 
-                return "Networks not set up"; // Retorna uma mensagem se networks não foi inicializado
+                return "Networks not set up"; 
             };
             case (?n) { 
-                return await n.get_raw_data(url); // Chama a função do canister de redes
+                return await n.get_raw_data(url); 
             };
         }
     };
 
-    public func fetch_stable_raw_text() : async Text {
+    public func fetch_stable_raw_json() : async Text {
         switch (networks) {
             case (null) { 
-                return "Networks not set up"; // Retorna uma mensagem se networks não foi inicializado
+                return "Networks not set up"; 
             };
             case (?n) { 
-                return await n.get_stable_raw_text(); // Chama a função do canister de redes
+                return await n.get_stable_raw_json(); 
             };
         }
     };
-}
+
+	let mock: [Types.StudentRecord] = [
+		{
+			studytime = 10;
+			higher = "Yes";
+			absences = 2;
+			failures = "No";
+		},
+		{
+			studytime = 15;
+			higher = "No";
+			absences = 5;
+			failures = "Yes";
+		},
+		{
+			studytime = 8;
+			higher = "Yes";
+			absences = 1;
+			failures = "No";
+		}
+	];
+
+	public func calculateDistance(a: Types.StudentRecord, b: Types.StudentRecord): async Float {
+		let studytimeDiff = Float.abs(Float.fromInt(a.studytime) - Float.fromInt(b.studytime));
+		let absencesDiff = Float.abs(Float.fromInt(a.absences) - Float.fromInt(b.absences));
+		return studytimeDiff + absencesDiff;
+	};
+
+	// Função para calcular todas as distâncias
+	public func calculateAllDistances(newRecord: Types.StudentRecord): async [(Types.StudentRecord, Float)] {
+		var distances: [(Types.StudentRecord, Float)] = [];
+
+		// Calcula a distância entre o novo registro e cada registro do array
+		for (mockRecord in mock.vals()) { // Corrigido para usar mock.vals()
+			let distance = await calculateDistance(newRecord, mockRecord); // Use await para chamar a função assíncrona
+			distances := Array.append(distances, [(mockRecord, distance)]);
+		};
+
+		return distances;
+	};
+
+};
 

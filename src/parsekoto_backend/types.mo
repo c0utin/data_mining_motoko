@@ -1,5 +1,14 @@
 module Types {
 
+    public type ParseError = {
+        message : Text;
+    };
+
+    public type Result<T, E> = {
+        #ok : T;
+        #err : E;
+    };
+
     public type Timestamp = Nat64;
 
     public type HttpRequestArgs = {
@@ -53,5 +62,13 @@ module Types {
         http_request : HttpRequestArgs -> async HttpResponsePayload;
     };
 
+	// Type Example:
+
+	public type StudentRecord = {
+		studytime: Nat;  
+		higher: Text;   
+		absences: Nat;  
+		failures: Text;  
+	};
 };
 
