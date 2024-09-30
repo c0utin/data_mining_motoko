@@ -82,12 +82,24 @@ actor {
 		return studytimeDiff + absencesDiff;
 	};
 
-	public func calculateAllDistances(newRecord: Types.StudentRecord): async [(Types.StudentRecord, Float)] {
+	public func calculateAllDistancesMock(newRecord: Types.StudentRecord): async [(Types.StudentRecord, Float)] {
 		var distances: [(Types.StudentRecord, Float)] = [];
 
 		for (mockRecord in mock.vals()) { 
 			let distance = await calculateDistance(newRecord, mockRecord);
 			distances := Array.append(distances, [(mockRecord, distance)]);
+		};
+
+		return distances;
+	};
+
+
+	public func calculateAllDistances(newRecord: Types.StudentRecord): async [(Types.StudentRecord, Float)] {
+		var distances: [(Types.StudentRecord, Float)] = [];
+
+		for (realRecord in stable_decoded_student.vals()) { 
+			let distance = await calculateDistance(newRecord, realRecord);
+			distances := Array.append(distances, [(realRecord, distance)]);
 		};
 
 		return distances;
