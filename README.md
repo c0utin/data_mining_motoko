@@ -7,6 +7,12 @@
 
 This project is built in Motoko and is aimed at processing student data, calculating distances between data points based on specific student attributes, and making predictions using the KNN (k-Nearest Neighbors) algorithm.
 
+## KNN
+
+K-Nearest Neighbors (KNN) is a simple, yet powerful, machine learning algorithm used for classification and regression tasks. It works by finding the 'k' nearest data points (neighbors) to a new data point and classifying it based on the majority label of its neighbors or predicting its value using the average of nearby points. KNN is a non-parametric method, meaning it makes no assumptions about the underlying data distribution. However, it can be computationally expensive, especially with large datasets, since it requires calculating the distance between data points during the prediction phase.
+
+[wikipedia KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+
 ## Features
 
 - **Calculate Distances**: Calculate the distance between a set of student records and input records using attributes such as absences, study time, failures, and higher education status.
