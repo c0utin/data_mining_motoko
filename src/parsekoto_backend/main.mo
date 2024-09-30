@@ -5,6 +5,7 @@ import Array "mo:base/Array";
 import Blob "mo:base/Blob";
 import Debug "mo:base/Debug";
 import Float "mo:base/Float";
+import JSON "mo:serde/JSON";
 
 import Types "types";
 
@@ -32,16 +33,32 @@ actor {
         }
     };
 
-    public func fetch_stable_raw_json() : async Text {
+    public func fetch_stable_raw_json() : async Types.Result<Types.StudentRecord, Types.ParseError> {
         switch (networks) {
-            case (null) { 
-                return "Networks not set up"; 
-            };
             case (?n) { 
-                return await n.get_stable_raw_json(); 
+
+                let decoded_text =  await n.get_stable_raw_json(); 
+
+				let json_result = JSON.fromText(decoded_text, null);
+				let json_blob = switch (json_result) {
+					case (#ok(blob)) { blob };
+					case (#err(e)) {
+						return #err({ message = "Failed to parse JSON: " # e });
+					};
+				};
+
+				let student_record: ?Types.StudentRecord = from_candid(json_blob);
+				switch (student_record) {
+					case (?record) { return #ok(record) };
+					case null { return #err({ message = "Failed to convert JSON into StudentRecord" }) };
+				}
+
             };
         }
     };
+
+
+
 
 	let mock: [Types.StudentRecord] = [
 		{

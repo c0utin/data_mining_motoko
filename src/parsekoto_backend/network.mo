@@ -73,7 +73,7 @@ actor {
         decoded_text
     };
 
-    public query func get_stable_raw_text() : async Text {
+    public query func get_stable_raw_json() : async Text {
 		return stable_decoded_raw_text;
     };
 };
