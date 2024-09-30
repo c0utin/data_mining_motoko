@@ -107,41 +107,46 @@ actor {
 	};
 
 
-public func predictHigher(newRecord: Types.StudentRecord, k: Nat): async Text {
-    let distances = await calculateAllDistances(newRecord);
+	public func predictHigher(newRecord: Types.StudentRecord, k: Nat): async Text {
+		let distances = await calculateAllDistances(newRecord);
 
-    let sortedDistances : [(Types.StudentRecord, Float)] = Array.sort(distances, 
-        func (a : (Types.StudentRecord, Float), b : (Types.StudentRecord, Float)) : Order.Order {
-            if (a.1 < b.1) {
-                return #less;
-            } else if (a.1 > b.1) {
-                return #greater;
-            } else {
-                return #equal;
-            }
-        }
-    );
+		let sortedDistances : [(Types.StudentRecord, Float)] = Array.sort(distances, 
+			func (a : (Types.StudentRecord, Float), b : (Types.StudentRecord, Float)) : Order.Order {
+				if (a.1 < b.1) {
+					return #less;
+				} else if (a.1 > b.1) {
+					return #greater;
+				} else {
+					return #equal;
+				}
+			}
+		);
 
-    let nearestNeighbors = Array.slice(sortedDistances, 0, k);
+		let nearestNeighbors = Array.slice(sortedDistances, 0, k);
 
-    var countHigherYes = 0;
-    var countHigherNo = 0;
+		var countHigherYes = 0;
+		var countHigherNo = 0;
 
-    for (neighbor in nearestNeighbors) {
-        if (neighbor.0.higher == "Yes") {
-            countHigherYes += 1;
-        } else {
-            countHigherNo += 1;
-        }
-    };
+		for (neighbor in nearestNeighbors) {
+			if (neighbor.0.higher == "Yes") {
+				countHigherYes += 1;
+			} else {
+				countHigherNo += 1;
+			}
+		};
 
-    if (countHigherYes > countHigherNo) {
-        return "Predicted: Higher = Yes";
-    } else {
-        return "Predicted: Higher = No";
-    }
-};
+		if (countHigherYes > countHigherNo) {
+			return "Predicted: Higher = Yes";
+		} else {
+			return "Predicted: Higher = No";
+		}
+	};
 
+
+  // Heart Beat test
+  public func heart_beat(name : Text) : async Text {
+    return "Hello, " # name # "!";
+  };
 
 };
 

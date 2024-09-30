@@ -1,5 +1,7 @@
 module Types {
 
+	// Error types
+
     public type ParseError = {
         message : Text;
     };
@@ -8,6 +10,8 @@ module Types {
         #ok : T;
         #err : E;
     };
+	
+	// Network types
 
     public type Timestamp = Nat64;
 
