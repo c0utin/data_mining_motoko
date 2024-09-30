@@ -1,10 +1,5 @@
-import Debug "mo:base/Debug";
 import Blob "mo:base/Blob";
 import Cycles "mo:base/ExperimentalCycles";
-import Error "mo:base/Error";
-import Array "mo:base/Array";
-import Nat8 "mo:base/Nat8";
-import Nat64 "mo:base/Nat64";
 import Text "mo:base/Text";
 
 import Types "types";
