@@ -1,3 +1,8 @@
+# Tutorial
+
+**Follow the tutorial:**
+[TUTORIAL](https://www.iorad.com/player/2452404/127-0-0---How-to-untitled-task-name?iframeHash=trysteps-1)
+
 # Data Mining in Motoko
 
 This project is built in Motoko and is aimed at processing student data, calculating distances between data points based on specific student attributes, and making predictions using the KNN (k-Nearest Neighbors) algorithm.
